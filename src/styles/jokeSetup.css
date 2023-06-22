@@ -1,0 +1,24 @@
+Card {
+    height: 30px;
+
+}
+
+/* Styles for screens with a maximum width of 768px */
+@media (max-width: 768px) {
+    .custom-content-loader {
+        /* Define styles for smaller screens */
+        width: 400px;
+        height: 120px;
+        /* Add any other styles specific to smaller screens */
+    }
+}
+
+/* Styles for screens with a minimum width of 769px */
+/* @media (min-width: 769px) {
+    .custom-content-loader {
+        /* Define styles for larger screens */
+/* width: 400px; */
+/* height: 100px; */
+/* Add any other styles specific to larger screens */
+/* }
+} */
